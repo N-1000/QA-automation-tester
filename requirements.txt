@@ -1,0 +1,14 @@
+# Librerías principales
+requests  # Para realizar solicitudes HTTP
+
+# Librerías para pruebas
+pytest  # Herramienta para pruebas en Python
+
+# Librerías para automatización de pruebas web
+selenium  # Para automatizar navegadores web
+
+# Librerías para desarrollo
+black  # Formateador de código Python
+isort  # Herramienta para ordenar importaciones
+
+# Agrega tus librerías aquí según sea necesario
